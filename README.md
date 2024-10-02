@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ali-Haider006
 - I'm currently enrolled in CS 8th Semester COMSATS Islamabad. (Graduation: Feb 2025)
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning MERN Stack. Looking forward to DevOps.
+Huge fan of Python and ML.
 
 
 <!---
